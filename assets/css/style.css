@@ -86,3 +86,11 @@ table {
 .table-body td:last-of-type {
     border-right: .1px solid black;
 }   
+
+.main-characters-list {
+    list-style: disc;
+}
+
+.main-characters-list li {
+    margin-bottom: 5px;
+}
